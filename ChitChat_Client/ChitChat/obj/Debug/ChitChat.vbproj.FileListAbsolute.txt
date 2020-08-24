@@ -1,0 +1,12 @@
+D:\ChitChat\ChitChat\ChitChat\bin\Debug\ChitChat.exe.config
+D:\ChitChat\ChitChat\ChitChat\bin\Debug\ChitChat.exe
+D:\ChitChat\ChitChat\ChitChat\bin\Debug\ChitChat.pdb
+D:\ChitChat\ChitChat\ChitChat\bin\Debug\ChitChat.xml
+D:\ChitChat\ChitChat\ChitChat\obj\Debug\ChitChat.vbprojResolveAssemblyReference.cache
+D:\ChitChat\ChitChat\ChitChat\obj\Debug\ChitChat.Klien.resources
+D:\ChitChat\ChitChat\ChitChat\obj\Debug\ChitChat.Resources.resources
+D:\ChitChat\ChitChat\ChitChat\obj\Debug\ChitChat.vbproj.GenerateResource.Cache
+D:\ChitChat\ChitChat\ChitChat\obj\Debug\ChitChat.exe
+D:\ChitChat\ChitChat\ChitChat\obj\Debug\ChitChat.xml
+D:\ChitChat\ChitChat\ChitChat\obj\Debug\ChitChat.pdb
+D:\ChitChat\ChitChat\ChitChat\obj\Debug\ChitChat.Obrolan_Pribadi.resources

@@ -1,0 +1,11 @@
+D:\ChitChat\ChitChat_Server\ChitChat_Server\bin\Debug\ChitChat_Server.exe.config
+D:\ChitChat\ChitChat_Server\ChitChat_Server\bin\Debug\ChitChat_Server.exe
+D:\ChitChat\ChitChat_Server\ChitChat_Server\bin\Debug\ChitChat_Server.pdb
+D:\ChitChat\ChitChat_Server\ChitChat_Server\bin\Debug\ChitChat_Server.xml
+D:\ChitChat\ChitChat_Server\ChitChat_Server\obj\Debug\ChitChat_Server.vbprojResolveAssemblyReference.cache
+D:\ChitChat\ChitChat_Server\ChitChat_Server\obj\Debug\ChitChat_Server.Resources.resources
+D:\ChitChat\ChitChat_Server\ChitChat_Server\obj\Debug\ChitChat_Server.Server.resources
+D:\ChitChat\ChitChat_Server\ChitChat_Server\obj\Debug\ChitChat_Server.vbproj.GenerateResource.Cache
+D:\ChitChat\ChitChat_Server\ChitChat_Server\obj\Debug\ChitChat_Server.exe
+D:\ChitChat\ChitChat_Server\ChitChat_Server\obj\Debug\ChitChat_Server.xml
+D:\ChitChat\ChitChat_Server\ChitChat_Server\obj\Debug\ChitChat_Server.pdb
